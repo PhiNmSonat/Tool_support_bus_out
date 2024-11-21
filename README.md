@@ -39,6 +39,4 @@
 - Do chia cluster theo thứ tự play car -> đảm bảo chỉ cần đi đúng thứ tự như đã play car thì luôn chơi được level
 -> Phụ thuộc vào cả cách play car và cách chia cụm mà tạo độ khó
 
-# Lỗi tiềm năng/ hạn chế/ note:
-- Trong tool xếp chưa lưu được id xe/ thứ tự xe đi -> xếp level khó nếu cần có thể tự nhớ thứ tự playcar, hoặc tự chơi theo cảm tính lúc vào tool test rồi tune lại theo flow chơi đó sẽ gần với cách user chơi hơn
 ### Một số trường hợp chạy script xong, load level ko lên thì là do lúc tráo hàng khách có lỗi, vậy nên khi chạy tool hỗ trợ nên giữ nguyên tool xếp, chỉ load level đã tráo khách ở tool test. Nếu có vấn đề gì mở tool xếp level nhấn save lại để lấy lại level lúc chưa tráo khách
