@@ -3,7 +3,7 @@
 
 ### Bước 1:
 ![Xếp level](Images/Tool_UI.png)
-- Tải file exe về, chạy file, sẽ thấy mở ra terminal của máy và một giao diện như hình
+- Tải file exe về, chạy file, sẽ thấy mở ra terminal của máy và một giao diện như hình (không đóng terminal lại, nếu không tool cũng sẽ đóng)
 
 ## Bước 2: 
 - Trong máy, sau khi xếp xong layout (thường xếp tầm 5+ màu), playcar xong, nhấn save order xong và save file level, mở giao diện tool hỗ trợ lên
