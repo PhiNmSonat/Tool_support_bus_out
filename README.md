@@ -29,7 +29,7 @@
 ![Xếp level](Images/Random.png)
 ### Bước 5:
 - Sau khi xong thì vào tool test, load level lên chơi thử xem đã đúng ý/ đúng mô tả chưa -> nếu chưa thì vào tool xếp tune lại thủ công cho phù hợp.
-- Có thể xóa text trong ô text output cho đỡ rối như với các trình soạn văn bản thông thường
+- Có thể xóa text trong ô text output cho đỡ rối như với các trình soạn văn bản thông thường sau khi hoàn thành
   
 # Tạo độ khó:
 - Level dễ thì các move đầu cứ playcar ít màu xe (ví dụ đi 10 xe, nhưng 10 xe đó chỉ xoay quanh 2 - 3 màu) -> đoạn đầu rất dễ đi
