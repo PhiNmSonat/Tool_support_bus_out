@@ -16,7 +16,7 @@
 - Kiểm tra thông tin total passenger/ có lỗi gì không giống ảnh
 - Phần ô text output hiển thị id mã màu của từng passenger trong level -> không cần quan tâm
 - Có thêm cửa số cluster size input pop up, hiện lên cho đến khi chia hết khách vào các cụm
-- Tool cho phép chia hàng khách thành các cụm, mỗi cụm có số màu riêng biệt tùy vào user nhập khi được hỏi "Enter the number of colors to group into this cluster:". Nhập xong, nhấn enter sẽ hiển thị số khách chưa được group vào cluster -> cứ tiếp tục chia như vậy cho đến khi hết khách. Thường cluster 2 màu sẽ dễ chơi, cluster 3 màu sẽ khó, cluster 4 màu sẽ cực khó
+- Tool cho phép chia hàng khách thành các cụm, mỗi cụm có số màu riêng biệt tùy vào user nhập khi được hỏi "Enter the number of colors to group into this cluster:". Nhập xong, nhấn enter sẽ hiển thị số khách chưa được group vào cluster -> cứ tiếp tục chia như vậy cho đến khi hết khách. Thường cluster 2 màu sẽ dễ chơi (2 xe lên hàng chờ), cluster 3 màu sẽ khó (3 xe lên hàng chờ), cluster 4 màu (4 xe lên hàng chờ) sẽ cực khó
 - Việc chia các cụm này là chia từng khoảng n màu khác biệt liên tiếp trong hàng khách. Ví dụ cụm n = 3 có thể là đỏ, đỏ, vàng, đỏ, xanh, hoặc là đỏ, vàng, xanh, đỏ, vàng, đỏ, xanh...
   
 ### Bước 4:
