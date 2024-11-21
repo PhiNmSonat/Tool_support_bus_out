@@ -10,7 +10,7 @@
 - Nhập vào đường dẫn level (tương tự đường dẫn nhập vào tool xếp), số level định tráo hàng khách
 - Nhấn nút run, kết quả hiển thị như hình
   
-![Xếp level](Images/run_file.png)
+![Xếp level](Images/Run_tool.png)
 
 ### Bước 3: 
 - Kiểm tra thông tin total passenger/ có lỗi gì không giống ảnh
@@ -26,7 +26,7 @@
 - Cửa sổ này hiển thị cho từng cluster, hỏi user có muốn tráo ngẫu nhiên khách trong 1 cluster hay không
 - Nhấn yes thì tráo, no thì giữ nguyên, cho đến khi đã quyết định cho hết các cluster
   
-![Xếp level](Images/run_file.png)
+![Xếp level](Images/Random.png)
 ### Bước 5:
 - Sau khi xong thì vào tool test, load level lên chơi thử xem đã đúng ý/ đúng mô tả chưa -> nếu chưa thì vào tool xếp tune lại thủ công cho phù hợp.
 - Có thể xóa text trong ô text output cho đỡ rối như với các trình soạn văn bản thông thường
