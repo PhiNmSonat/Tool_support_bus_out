@@ -7,7 +7,7 @@
 
 ## Bước 2: 
 - Trong máy, sau khi xếp xong layout (thường xếp tầm 5+ màu), playcar xong, nhấn save order xong và save file level, mở giao diện tool hỗ trợ lên
-- Nhập vào đường dẫn level (tương tự đường dẫn nhập vào tool xếp), số level định tráo hàng khách
+- Nhập vào đường dẫn level (tương tự đường dẫn nhập vào tool xếp), nhập vào level định tráo hàng khách (nhập số nguyên 1, 2, 3...)
 - Nhấn nút run, kết quả hiển thị như hình
   
 ![Xếp level](Images/Run_tool.png)
